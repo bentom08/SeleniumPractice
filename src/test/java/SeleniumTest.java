@@ -110,9 +110,4 @@ public class SeleniumTest {
 		
 		assertEquals(true, results.contains("Faded Short Sleeve T-shirts"));
 	}
-	
-	@Test
-	public void testQASite() {
-		
-	}
 }
